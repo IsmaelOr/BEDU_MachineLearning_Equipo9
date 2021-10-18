@@ -26,5 +26,4 @@ Para nuestro proyecto nos basamos en este Dataset: link
 * Alrededor de 60,000 datos que corresponden al estudio de enfermedades cardiovasculares.
 * 6 variables numéricas (edad, estatura, peso, imc, presión sistólica y presión diastólica).
 * 7 variables categóricas (género, colesterol, glucosa, tabaco, alcohol, actividad física y enfermedad cardiovascular).
-
-
+<img src="https://raw.githubusercontent.com/IsmaelOr/BEDU_MachineLearning_Equipo9/main/Files/descarga.png" />
