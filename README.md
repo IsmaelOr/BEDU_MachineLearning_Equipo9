@@ -21,6 +21,9 @@ https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/documentacion
 ## Archivo MLUtilities.py:
 https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/MLUtilities.py
 
+## Presentación:
+https://docs.google.com/presentation/d/1zZ_DDwOQe26BAK0CJ7AHx09M_ZsUBwMCCqLAvRg2hj0/edit?usp=sharing
+
 ## Introducción
 ### **Enfermedades cardiovasculares**
 Las enfermedades cardiovasculares constituyen la primera causa de muerte en el mundo y se prevé que lo sigan siendo, debido al envejecimiento de la población y la prevalencia de dichas enfermedades en países de bajos recursos. Las enfermedades cardiovasculares son enfermedades del sistema circulatorio, de etiología y localización diversas. Se clasifican en cuatro tipos generales:
