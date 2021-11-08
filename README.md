@@ -39,9 +39,6 @@ Las enfermedades cardiovasculares constituyen la primera causa de mortalidad afe
 
 El riesgo cardiovascular se define como la probabilidad de padecer un evento cardiovascular en un determinado período. La predicción del riesgo cardiovascular ha constituido, en los últimos años, la piedra angular en las guías clínicas de prevención cardiovascular, y deviene una herramienta útil del Médico de Familia para establecer prioridades en la atención primaria, mejorando la atención a los pacientes y eligiendo más eficazmente la terapéutica a seguir, con el objetivo de acercarnos más a la realidad multifactorial de las enfermedades cardiovasculares y a su prevención.
 
-### Postwork 1 - Introducción a Machine Learning
-Para nuestro proyecto nos basamos en este Dataset: link
-
 #### ¿Qué contiene nuestro Dataset?
 * Alrededor de 60,000 datos que corresponden al estudio de enfermedades cardiovasculares.
 * 6 variables numéricas (edad, estatura, peso, imc, presión sistólica y presión diastólica).
