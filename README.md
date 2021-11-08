@@ -1,5 +1,21 @@
-# BEDU_MachineLearning_Equipo9
+# BEDU - Santander - Fase III - Módulo 2 - Machine Learning
 Repositorio del Proyecto de la Fase Final del Curso de Data Science de BEDU.
+
+## Integrantes:
+- Dávila Osorio Javier Ibzan 
+- Díaz Lievano Lázaro Raúl
+- García Ruiz Diana Isabel
+- Ortega Estrada Ismael
+- Pizano Ocampo Aranza Nayeli
+- Sánchez Loperena Rubén
+
+## Proyecto:
+
+## Dataset:
+
+## Documentación Dataset:
+
+## Archivo MLUtilities.py:
 
 ## Introducción
 ### **Enfermedades cardiovasculares**
