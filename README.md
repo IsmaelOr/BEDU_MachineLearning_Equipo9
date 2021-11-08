@@ -10,12 +10,16 @@ Repositorio del Proyecto de la Fase Final del Curso de Data Science de BEDU.
 - Sánchez Loperena Rubén
 
 ## Proyecto:
+https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/ml_proyecto_equipo_9.ipynb
 
 ## Dataset:
+https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/Files/enfermedades_cardiovasculares.csv
 
 ## Documentación Dataset:
+https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/documentacion_dataset.pdf
 
 ## Archivo MLUtilities.py:
+https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/MLUtilities.py
 
 ## Introducción
 ### **Enfermedades cardiovasculares**
