@@ -21,7 +21,7 @@ https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/documentacion
 ## Archivo MLUtilities.py:
 https://github.com/IsmaelOr/BEDU_MachineLearning_Equipo9/blob/main/MLUtilities.py
 
-## Video del Módulo.
+## Video del Módulo:
 https://youtu.be/BcCgzUOzbHI
 
 ## Presentación:
